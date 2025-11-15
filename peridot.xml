@@ -3,5 +3,5 @@
     <project name="droidcore/xiaomi_peridot"
         path="device/xiaomi/peridot"
         remote="github"
-        revision="evox" />
+        revision="lineage-23.0" />
 </manifest>
