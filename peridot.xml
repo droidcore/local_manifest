@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <project name="droidcore/xiaomi_peridot"
-        path="device/xiaomi/peridot"
+        path="device_xiaomi_peridotf6"
         remote="github"
-        revision="lineage-23.0" />
+        revision="lun" />
 </manifest>
